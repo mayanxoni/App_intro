@@ -4,20 +4,27 @@
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
-
     <string name="slide_1_title">A graduate fresher?</string>
     <string name="slide_1_desc">But cant find your dream job beacause of the freshers tag?</string>
-
     <string name="slide_2_title">Want a solution?</string>
     <string name="slide_2_desc">Join Pre-Corporate School at Kooky Infomedia</string>
-
     <string name="slide_3_title">Great Benefits</string>
     <string name="slide_3_desc">Remove the freshers tag by being experienced of working with the professionals</string>
-
     <string name="slide_4_title">Work over Live Projects</string>
     <string name="slide_4_desc">We,here at kooky infomedia present you the chance to join our internship and work over live projects and be Industry Friendly!</string>
-
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
     <string name="play_again">Play Again</string>
     <string name="title_activity_maps">Map</string>
+    <string name="search">Search</string>
+    <string name="event_list">Event List</string>
+    <string name="videos">Videos</string>
+    <string name="gallery">Gallery</string>
+    <string name="your_selection">Your selection</string>
+    <string name="events_list">Events List</string>
+    <string name="find_us">Find us</string>
+    <string name="contact">Contact</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Inde sermone vario illa a Dipylo stadia confecimus. Habes, inquam, Cato, formam eorum, de quibus loquor, philosophorum. Roges enim Aristonem, bonane ei videantur haec: vacuitas doloris, divitiae, valitudo; Quae contraria sunt his, malane? Potius ergo illa dicantur: turpe esse, viri non esse debilitari dolore, frangi, succumbere. Sumenda potius quam expetenda.</string>
+    <string name="textview">About us</string>
+    <string name="body">https://play.google.com/store/apps/details?id=com.precorp.school</string>
+    <string name="subject">Hi! Look what I found:</string>
 </resources>
