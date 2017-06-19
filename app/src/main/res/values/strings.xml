@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">A graduate fresher?</string>
+    <string name="slide_1_desc">But cant find your dream job beacause of the freshers tag?</string>
+
+    <string name="slide_2_title">Want a solution?</string>
+    <string name="slide_2_desc">Join Pre-Corporate School at Kooky Infomedia</string>
+
+    <string name="slide_3_title">Great Benefits</string>
+    <string name="slide_3_desc">Remove the freshers tag by being experienced of working with the professionals</string>
+
+    <string name="slide_4_title">Work over Live Projects</string>
+    <string name="slide_4_desc">We,here at kooky infomedia present you the chance to join our internship and work over live projects and be Industry Friendly!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
